@@ -1,4 +1,4 @@
-[LA](https://learn-anything.xyz) is being rebuilt from scratch with [Jazz](https://jazz.tools).
+[Learn Anything](https://learn-anything.xyz) is being rebuilt from scratch with [Jazz](https://jazz.tools).
 
 Previous attempt at it can be seen [here](https://github.com/learn-anything/attempt).
 
